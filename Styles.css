@@ -1,0 +1,65 @@
+    header {
+        background: #2D2D2D;
+    }
+    
+    #div1 {
+        float: right;
+    }
+    
+    section {
+        background-color: #4C6C8C;
+    }
+    
+    body {
+        background-color: #4C6C8C;
+    }
+    
+    #games {
+        text-align: center;
+    }
+    
+    section div h1 {
+        font-size: 80px;
+        color: #2d18d0;
+    }
+    
+    figcaption {
+        color: #9AA9C4;
+    }
+    
+    .search-bar {
+        width: 26em;
+        background: #80808096;
+        display: flex;
+        padding-inline: 3em;
+        border-radius: 15px;
+        padding-block: 6px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    input::placeholder {
+        color: #9AA9C4;
+    }
+
+
+    #weather img {
+        width: 50px;
+        height: 50px;
+        vertical-align: middle;
+        
+    }
+
+    #weather span {
+        font-size: 10px;
+    }
+
+    #carouselExample {
+        max-width: 600px;
+        margin: auto;
+      }
+    
+      .carousel-item img {
+        height: 300px;
+        width: 70%;
+      }
